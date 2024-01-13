@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Mryoussefwail
-- 👀 I’m interested in ... android and software development.
-- 🌱 I’m currently learning ... java springs, php , frontend ,flutter 
-- 💞️ I’m looking to collaborate on ... android , mobile applications.
+- 👀 I’m interested in ... backend and software development.
+- 🌱 I’m currently learning ... java spring, php , frontend ,flutter 
 - 📫 How to reach me ...
 - Email:youssefwail711@gmail.com.
 
